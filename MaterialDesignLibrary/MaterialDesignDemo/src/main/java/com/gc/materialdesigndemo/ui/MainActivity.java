@@ -23,6 +23,7 @@ public class MainActivity extends Activity implements OnColorSelectedListener{
 	
 	int backgroundColor = Color.parseColor("#1E88E5");
 	//1111
+	//2222
 	ButtonFloatSmall buttonSelectColor;
 
     @SuppressLint("NewApi")
